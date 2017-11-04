@@ -31,7 +31,7 @@ hr{
 
 .sidebar-container a:hover,
 .sidebar-container a:active {
-    color: #0085a1 !important;
+    color: #f08710 !important;
 }
 
 .sidebar-container .tags a {
@@ -40,7 +40,7 @@ hr{
 
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
-    border-color: #0085a1;
+    border-color: #f08710;
 }
 
 .sidebar-container .short-about img {
@@ -94,7 +94,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #0085a1;
+    color: #f08710;
 }
 
 a img:hover,
@@ -369,7 +369,7 @@ article blockquote cite:before{
     .navbar-custom.is-fixed .nav li a:focus,
     .navbar-custom.is-fixed .navbar-brand:hover,
     .navbar-custom.is-fixed .navbar-brand:focus {
-        color: #0085a1;
+        color: #f08710;
     }
 }
 
@@ -516,7 +516,7 @@ a:focus {
 
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-    color: #0085a1;
+    color: #f08710;
     text-decoration: underline;
 }
 
@@ -573,7 +573,7 @@ footer .copyright a {
 
 footer .copyright a:hover,
 footer .copyright a:focus {
-    color: #0085a1;
+    color: #f08710;
 }
 
 .floating-label-form-group {
@@ -622,7 +622,7 @@ footer .copyright a:focus {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #0085a1;
+    color: #f08710;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -651,8 +651,8 @@ form .row:first-child .floating-label-form-group {
 
 .btn-default:hover,
 .btn-default:focus {
-    background-color: #0085a1;
-    border: 1px solid #0085a1;
+    background-color: #f08710;
+    border: 1px solid #f08710;
     color: white;
 }
 
@@ -693,8 +693,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
     color: white;
-    background-color: #0085a1;
-    border: 1px solid #0085a1;
+    background-color: #f08710;
+    border: 1px solid #f08710;
 }
 
 .pager .disabled > a,
@@ -709,13 +709,13 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
     color: white;
     text-shadow: none;
-    background: #0085a1;
+    background: #f08710;
 }
 
 ::selection {
     color: white;
     text-shadow: none;
-    background: #0085a1;
+    background: #f08710;
 }
 
 img::selection {
@@ -793,7 +793,7 @@ img::-moz-selection {
 #tag_cloud .tag:hover,
 #tag_cloud a:active,
 #tag_cloud .tag:active {
-    background-color: #0085a1 !important;
+    background-color: #f08710 !important;
 }
 
 @media only screen and (min-width: 768px) {
@@ -817,7 +817,7 @@ img::-moz-selection {
 }
 
 .listing-seperator {
-    color: #0085a1;
+    color: #f08710;
     font-size: 21px !important;
 }
 
@@ -1065,7 +1065,7 @@ img::-moz-selection {
 }
 
 .container .toc-wrap .toc-level-2 > a {
-    color: #0085a1;
+    color: #f08710;
     font-size: .9em;
 }
 
